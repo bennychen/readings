@@ -11,7 +11,7 @@
 - Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration:+1::+1:
 - 创造【美】凯文·阿什顿:+1::+1:
 - Business Model Generation
-- The Hardest Thing about the Hardest Thing
+- The Hard Thing About Hard Things
 - Zero to One: Notes on Startups, or How to Build the Future
 - Insanly Simple - The Obsession That Drives Apple's Success:+1:
 - To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History
@@ -53,10 +53,10 @@
 - Barca - The Making of the Greatest Team in the World
 
 ## 其他
-- 必然 - 凯文·凯利 (Kevin Kelly)
+- 必然 - 凯文·凯利 (Kevin Kelly):+1:
 - Peak: Secrets from the New Science of Expertise
-- 时间的朋友:+1:
-- 财富自由之路:+1:
+- 时间的朋友 - 李笑来:+1:
+- 财富自由之路 - 李笑来
 - Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets
 - Option B: Facing Adversity, Building Resilience, and Finding Joy
 - 高手：精英的见识和我们的时代 万维钢专栏精华
