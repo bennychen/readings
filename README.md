@@ -17,8 +17,8 @@
 - To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History
 - IT 创业疯魔史
 - The Alliance: Managing Talent in the Networked Age
-- Game Design Workshop :+1::+1:
-- A Theory of Fun
+- Game Design Workshop: A Playcentric Approach to Creating Innovative Games :+1::+1:
+- A Theory of Fun for Game Design 
 - Hooked - How to Build Habit-Forming Products:+1::+1:
 - 创业时，我们在知乎聊什么
 - 神作之路-卓越游戏设计剖析
