@@ -1,10 +1,10 @@
-# 我的读书列表
+# My Reading List 我的读书列表
 
-:+1: 推荐
+:+1: Recommended 推荐
 
-:+1::+1: 非常推荐
+:+1::+1: Highly Recommended 非常推荐
 
-## 创业&商业
+## Startup & Business 创业&商业
 - Team Leadership in the Game Industry
 - The Five Dysfunctions of a Team: An Illustrated Leadership Fable
 - Leaders Eat Last: Why Some Teams Pull Together and Others Don’t
@@ -23,7 +23,7 @@
 - 创业时，我们在知乎聊什么
 - 神作之路-卓越游戏设计剖析
 
-## 技术
+## Tech 技术
 - Advanced 2D Game Development
 - 3D数学基础: 图形与游戏开发
 - Head First Design Patterns
@@ -39,7 +39,7 @@
 - C++ Primer
 - Effective C++
 
-## 传记
+## Autobiography 传记
 - 光电革命
 - 创新者：一群技术狂人和鬼才程序员如何改变世界:+1:
 - Pep Guardiola: Another Way of Winning: The Biography:+1:
@@ -52,7 +52,7 @@
 - 地下乡愁蓝调
 - Barca - The Making of the Greatest Team in the World
 
-## 其他
+## Others 其他
 - 必然 - 凯文·凯利 (Kevin Kelly):+1:
 - Peak: Secrets from the New Science of Expertise
 - 时间的朋友 - 李笑来:+1:
