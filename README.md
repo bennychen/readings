@@ -24,13 +24,14 @@
 - 神作之路-卓越游戏设计剖析
 
 ## Tech 技术
+- Development and Deployment of Multiplayer Online Games vol1 :+1:
 - Advanced 2D Game Development
 - 3D数学基础: 图形与游戏开发
 - Head First Design Patterns
 - Clean Code - A Handbook of Agile Software Craftsmanship:+1:
 - Game Engine Architecture:+1::+1:
 - Practices of an Agile Developer:+1:
-- The Agile Samurai - How Agile Masters Deliver Great Software:+1:
+- The Agile Samurai - How Agile Masters Deliver Great Software :+1:
 - 极客与团队
 - The Go Programming Language
 - Let's Go - Learn to build professional web applications with Go
