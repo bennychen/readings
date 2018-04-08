@@ -22,6 +22,7 @@
 - Hooked - How to Build Habit-Forming Products:+1::+1:
 - 创业时，我们在知乎聊什么
 - 神作之路-卓越游戏设计剖析
+- 见识：商业的本质和人生的智慧 - 吴军 :+1::+1:
 
 ## Tech 技术
 - Development and Deployment of Multiplayer Online Games vol1 :+1:
@@ -66,4 +67,3 @@
 - 平均的终结：如何在崇尚标准化的世界中胜出
 - The Power of Moments: Why Certain Experiences Have Extraordinary Impact :+1:
 - Zen and the Art of Motorcycle Maintenance
-- 见识：商业的本质和人生的智慧 - 吴军 :+1::+1:
