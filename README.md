@@ -5,6 +5,7 @@
 :+1::+1: Highly Recommended 非常推荐
 
 ## Startup & Business 创业&商业
+
 - Team Leadership in the Game Industry
 - The Five Dysfunctions of a Team: An Illustrated Leadership Fable
 - Leaders Eat Last: Why Some Teams Pull Together and Others Don’t
@@ -18,16 +19,18 @@
 - IT 创业疯魔史
 - The Alliance: Managing Talent in the Networked Age
 - Game Design Workshop: A Playcentric Approach to Creating Innovative Games :+1::+1:
-- A Theory of Fun for Game Design 
+- A Theory of Fun for Game Design
 - Hooked - How to Build Habit-Forming Products:+1::+1:
 - 创业时，我们在知乎聊什么
 - 神作之路-卓越游戏设计剖析
 - 见识：商业的本质和人生的智慧 - 吴军 :+1::+1:
+- Winning - Jack Welch
 
 ## Tech 技术
+
 - Development and Deployment of Multiplayer Online Games vol1 :+1:
 - Advanced 2D Game Development
-- 3D数学基础: 图形与游戏开发
+- 3D 数学基础: 图形与游戏开发
 - Head First Design Patterns
 - Clean Code - A Handbook of Agile Software Craftsmanship:+1:
 - Game Engine Architecture:+1::+1:
@@ -42,6 +45,7 @@
 - Effective C++
 
 ## Autobiography 传记
+
 - 光电革命
 - 创新者：一群技术狂人和鬼才程序员如何改变世界:+1:
 - Pep Guardiola: Another Way of Winning: The Biography:+1:
@@ -55,6 +59,7 @@
 - Barca - The Making of the Greatest Team in the World
 
 ## Others 其他
+
 - 必然 - 凯文·凯利 (Kevin Kelly):+1:
 - Peak: Secrets from the New Science of Expertise
 - 时间的朋友 - 李笑来:+1:
